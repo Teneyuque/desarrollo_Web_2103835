@@ -1,0 +1,14 @@
+
+    .Gignac {
+        color:blue;
+        background-color: gold;
+            }
+    .borde1 {
+            border: 2px solid black;
+            }
+     .borde2 {
+            border: 2px double black;
+            }
+     .borde3 {
+            border: 2px dashed black;
+            }
