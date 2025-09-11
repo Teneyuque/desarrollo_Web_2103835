@@ -26,7 +26,6 @@ while (allow):
     v1 = int(input("enter first number: "))
     v2 = int(input("enter second number: "))   
     operation = input("enter any operation + - * / ( . to exit)")
-
     if (operation == "+"): print(v1+v2)
     elif (operation == "-"): print(v1-v2)
     elif (operation == "*"): print(v1*v2)
